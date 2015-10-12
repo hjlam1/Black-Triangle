@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\ButtonFly.cs" />
      <Compile Include="Assets\Guide.cs" />
+     <Compile Include="Assets\NewRing.cs" />
      <Compile Include="Assets\SerialEuler.cs" />
      <Compile Include="Assets\SerialQuaternion.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />

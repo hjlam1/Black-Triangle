@@ -17,7 +17,7 @@ public class SerialEuler : MonoBehaviour {
 	public GameObject forwardOne;
 	public GameObject forwardTwo;
 
-	SerialPort stream = new SerialPort("COM1", 9600); //Set the port and the baud rate
+	SerialPort stream = new SerialPort("COM3", 9600); //Set the port and the baud rate
 	Vector3 inputRotation;
 	
 	// Use this for initialization
