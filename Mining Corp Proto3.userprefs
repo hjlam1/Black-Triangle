@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NewRing.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Prototype 4\Proto4\Assets\SerialEulerA.cs">
     <Files>
-      <File FileName="Assets\SerialEuler.cs" Line="20" Column="42" />
-      <File FileName="Assets\ButtonFly.cs" Line="22" Column="1" />
-      <File FileName="Assets\Guide.cs" Line="1" Column="1" />
-      <File FileName="Assets\SerialQuaternion.cs" Line="1" Column="1" />
-      <File FileName="Assets\NewRing.cs" Line="54" Column="4" />
+      <File FileName="..\..\Prototype 4\Proto4\Assets\SerialEuler.cs" Line="168" Column="1" />
+      <File FileName="..\..\Prototype 4\Proto4\Assets\SerialEulerA.cs" Line="8" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
